@@ -1,6 +1,6 @@
 # Hi, I'm Hoàng Văn Khải 👋
 
-**Embedded / PCB / Robotics / Automation Candidate**
+**Embedded / PCB / Robotics / Automation**
 
 ![Embedded](https://img.shields.io/badge/Embedded-STM32-blue)
 ![PCB](https://img.shields.io/badge/PCB-Altium-green)
